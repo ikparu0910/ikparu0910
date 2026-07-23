@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ikparu0910" alt="ikparu0910" /></a> </p>
 
-- ⚡ Real Fact **Cái gì cũng làm được !!! Không làm được kêu AI làm :)))**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/nguoivietnam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nguoivietnam" height="30" width="40" /></a>
